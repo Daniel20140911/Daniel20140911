@@ -6,8 +6,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Wate is stratch
-
+- What is @stratch?
+- It is can write program tool can make animations or games.
 <!---
 Daniel20140911/Daniel20140911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
